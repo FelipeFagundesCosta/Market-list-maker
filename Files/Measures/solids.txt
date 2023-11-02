@@ -1,5 +1,5 @@
-farinha
-carne moida
-creme de leite
-leite condensado
-açucar
+flour
+pasta
+butter
+parmesan cheese
+cheddar cheese

@@ -13,7 +13,7 @@ First of all, go in the Files directory and open the Recepies.csv file. Then, pr
 For instance:
 A | B | C | D | E | F | G | H | I
 --- | --- | --- | --- |--- |--- |--- |--- |---
-Mac n cheese | butter:100 | flour:100 | milk:800 | parmesan cheese:100 | cheddar cheese:150 | pasta:350 | salt:1 | pepper:1
+mac n cheese | butter:100 | flour:100 | milk:800 | parmesan cheese:100 | cheddar cheese:150 | pasta:350 | salt:1 | pepper:1
 
 The quantities are in grams and mililiters.
 

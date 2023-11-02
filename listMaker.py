@@ -29,11 +29,11 @@ while reDo:
                     found = True
         if not found:
             while not found:
-                    print(f'\nA receita "{toBeDone[i]}" não consta no nosso banco de dados.')
-                    print('Para adicionar uma nova receita altere o documento "receitas.csv"')
-                    error = input(f'\nGostaria de redigitar "{toBeDone[i]}"? ').lower()
+                    print(f'\nThe recepie "{toBeDone[i]}" is not in our data base.')
+                    print('To add a new recepie, ater the file "Recepies.csv"')
+                    error = input(f'\nWould you like to rewrite "{toBeDone[i]}"? ').lower()
                     if error in 'simsmyesys':
-                        correction = input('\nDigite o nome da refeição novamente: ').lower()
+                        correction = input('\nType the name of the recepie again: ').lower()
                         toBeDone[i] = correction
                         for l in range(len(lista)):
                             search = list(lista[l].split(','))
