@@ -40,3 +40,10 @@ If you want your list to show the measurement unit of each ingredient, you can d
 Once you've fished doing the configurations, run the code, it will ask what do you plan on cooking for this week. Then you must proceed to list the recepies and separete them just by a comma.
 
 Whe you've finished listing what you want to cook, press enter and then the code you generate a file called 'List.csv' containing the name and thee quantities of each ingredient.
+
+
+# To be add
+
+Soon will be added an interface, as well as turning the code into a .exe file.
+
+I also plan on making an alternative mode where you don't need the Recepies.csv file, and it asks for the ingredients of the recepies you want to chatGPT.
